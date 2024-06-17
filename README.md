@@ -12,7 +12,7 @@
 
   Travel Website is a fully responsive Travel website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://adnan-bhaldar.github.io/travel-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://adnan-bhaldar.github.io/Travel-Website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
