@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/travel-website)
   ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/travel-website?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/travel-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar_?style=social)](https://twitter.com/intent/follow?screen_name=Adnan__Bhaldar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar?style=social)](https://twitter.com/intent/follow?screen_name=Adnan__Bhaldar)
 
   <br />
   <br />
