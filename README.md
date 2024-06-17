@@ -20,7 +20,7 @@
 
 ### Demo Screeshots
 
-![Travel Website Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Travel Website Desktop Demo](./readme-images/Desktop.png "Desktop Demo")
 
 ### Prerequisites
 
