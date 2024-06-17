@@ -8,9 +8,9 @@
   <br />
   <br />
 
-  <h2 align="center">travel-website - Book Store Website</h2>
+  <h2 align="center">Travel - Travel Website</h2>
 
-  travel-website is a fully responsive book store website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Travel Website is a fully responsive Travel website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://adnan-bhaldar.github.io/travel-website/"><strong>➥ Live Demo</strong></a>
 
